@@ -26,7 +26,7 @@ LEDS und Widerstände können weg gelassen werden!
 ![complete](Images/4.jpg)
 ![complete](Images/5.jpg)
 
-Batteriehalter Anpassen
+Batteriehalter Anpassen! in der Mitte des + Zeichen abtrennen! 
 ![complete](Images/6.jpg)
 ![complete](Images/7.jpg)
 ![complete](Images/8.jpg)
