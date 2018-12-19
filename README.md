@@ -5,7 +5,7 @@
  * 1x CC1101 Funkmodul **(868 MHz)**
  * 1x FTDI Adapter (wird nur zum Flashen benötigt)
  * 1x Taster 6*6
- * 1x Batteriehalter print für CR2032 **Reichelt KZH 20P**
+ * 1x Batteriehalter print für CR2032 **Reichelt KZH 20P** oder [EBAY](https://www.ebay.de/itm/CR2012-2032-Knopfzellenhalter-max-20-mm-Silber-Printmontage-horizontal-2/253806533551?hash=item3b180c5baf:g:IOUAAOSwtlZb0KwD:rk:2:pf:0)
  * 1x Batterie CR2032
 
 Optional die LEDS **Verringert die Batterielaufzeit**
@@ -18,6 +18,8 @@ Optional die LEDS **Verringert die Batterielaufzeit**
 
 ![complete](Images/1.jpg)
 ![complete](Images/2.jpg)
+
+Taster können von der alten Platinen übernommen werden. oder 3 neue 6x6x4,3mm
 ![complete](Images/3.jpg)
 
 LEDS und Widerstände können weg gelassen werden!
