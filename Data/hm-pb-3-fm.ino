@@ -61,7 +61,7 @@ class Hal : public HalType {
     void init (const HMID& id) {
       HalType::init(id);
       // get new battery value after 50 key press
-      battery.init(50, btncounter);
+      battery.init(5, btncounter);
       battery.low(22);
       battery.critical(19);
     }
@@ -96,6 +96,6 @@ void loop() {
   bool worked = hal.runready();
   bool poll = sdev.pollRadio();
   if (worked == false && poll == false ) {
-    hal.activity.savePower<Idle<>>(hal);
+    hal.activity.savePower<Sleep<>>(hal);
   }
 }
