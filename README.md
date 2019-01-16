@@ -1,6 +1,6 @@
 # Wandsender 1- / 3- fach - Homematic 868Mhz
 ## benötigte Hardware
- * 1x Funk Wandsender Licht Wandschalter 433MHZ für RF Empfänger Fernbedienung [Ebay](https://www.ebay.de/itm/Funk-Wandsender-Licht-Wandschalter-433MHZ-für-RF-Empfänger-Fernbedienung-3-Model/173226547355)
+ * 1x Funk Wandsender Licht Wandschalter 433MHZ für RF Empfänger Fernbedienung [Ebay](https://www.ebay.de/itm/Funk-Wandsender-Licht-Wandschalter-433MHZ-für-RF-Empfänger-Fernbedienung-3-Model/173226547355) oder [aliexpress](https://de.aliexpress.com/item/433-mhz-86-Wireless-Sticky-Wand-Panel-Fernbedienung-Schalter-Transmitter-Smart-Home-Drahtlose-Fernbedienung-Schalter/32920495055.html?spm=a2g0s.9042311.0.0.27424c4dat1f0i)
  * 1x Arduino Pro Mini **ATmega328P (3.3V/8MHz)**
  * 1x CC1101 Funkmodul **(868 MHz)**
  * 1x FTDI Adapter (wird nur zum Flashen benötigt)
